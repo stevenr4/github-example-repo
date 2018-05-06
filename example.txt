@@ -2,4 +2,6 @@ Here is a header to the file.
 
 This is the git example!
 
+Here is the change!
+
 
